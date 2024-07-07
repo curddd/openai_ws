@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "openai": "^4.52.3",
+    "ws": "^8.18.0"
+  }
+}
